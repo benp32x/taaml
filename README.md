@@ -10,7 +10,7 @@ Please create an issue in the issue tracker if you need help.
 
 ### Credits
 
-Created / coded by dreamcast tm `<br>` 2010
+Created / coded by "dreamcast tm `<br>`" 2010
 
 Additional research / testing by Ben Pekarek
 
